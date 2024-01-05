@@ -1,4 +1,0 @@
-Sitemap: https://juliacon.org/previews/PR482/sitemap.xml
-
-User-agent: *
-Disallow:
