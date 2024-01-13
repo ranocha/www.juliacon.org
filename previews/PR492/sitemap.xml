@@ -8,6 +8,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>https://juliacon.org/previews/PR492/2024/minisymposia/hpc/index.html</loc>
+    <lastmod>2024-01-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://juliacon.org/previews/PR492/2020/tickets/index.html</loc>
     <lastmod>2024-01-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -182,6 +188,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>https://juliacon.org/previews/PR492/2024/minisymposia/industrial/index.html</loc>
+    <lastmod>2024-01-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://juliacon.org/previews/PR492/2023/accessibility/index.html</loc>
     <lastmod>2024-01-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -314,6 +326,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>https://juliacon.org/previews/PR492/2024/minisymposia/earth/index.html</loc>
+    <lastmod>2024-01-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://juliacon.org/previews/PR492/2024/proposal/index.html</loc>
     <lastmod>2024-01-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -381,6 +399,12 @@
 </url>
 <url>
     <loc>https://juliacon.org/previews/PR492/2024/venue/index.html</loc>
+    <lastmod>2024-01-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://juliacon.org/previews/PR492/2024/minisymposia/data/index.html</loc>
     <lastmod>2024-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -459,6 +483,12 @@
 </url>
 <url>
     <loc>https://juliacon.org/previews/PR492/2024/minisymposia/index.html</loc>
+    <lastmod>2024-01-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://juliacon.org/previews/PR492/2024/minisymposia/aerospace/index.html</loc>
     <lastmod>2024-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -627,6 +657,12 @@
 </url>
 <url>
     <loc>https://juliacon.org/previews/PR492/local/eindhoven2023/index.html</loc>
+    <lastmod>2024-01-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://juliacon.org/previews/PR492/2024/minisymposia/quantum/index.html</loc>
     <lastmod>2024-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
