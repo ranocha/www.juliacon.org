@@ -22,7 +22,7 @@
 
   <!-- Favicon + title -->
   <link rel="icon" href="/assets/favicon.png">
-  <title>FAQs</title>
+  <title>Scientific Data Minisymposium</title>
 
   <!-- STYLE + ADJUSTMENTS -->
   <link rel="stylesheet" href="/css/reset.css">
@@ -110,15 +110,19 @@
 <div class="container">
 
 <!-- Content appended here -->
-<h1 id="faqs"><a href="#faqs" class="header-anchor">FAQs</a></h1>
-<p><strong>Q: Is there financial assistance available?</strong></p>
-<p>A: As we have moved to a virtual conference for 2021, registration is free&#33; Register for JuliaCon 2021 at the <a href="/2021/tickets/">tickets page</a>.</p>
-<p><strong>Q: How can I get involved?</strong></p>
-<p>A: If you’re looking for ways to volunteer for JuliaCon 2021, please consider <a href="https://docs.google.com/forms/d/e/1FAIpQLSf2vv8GMJhYZ8bEXNFQVZDQmu3sLxPQmk0mNUOodM7uznvxBQ/viewform">mentoring a new speaker</a>, and <a href="https://forms.gle/ZPeUVtJKJa292tgn9">virtually volunteering</a>.</p>
-<p><strong>Q: I haven’t presented before. Is there support/guidance available?</strong></p>
-<p>A: Yes&#33; We have mentors available to help with submissions as well as presenting. <a href="https://docs.google.com/forms/d/e/1FAIpQLScS8-y8PgWa9lRF7yhBAU0bkruEvTsBF2weX_PhDXHr9Civ_A/viewform?usp&#61;sf_link">Request a mentor</a>.</p>
-<p><strong>Q: I don’t know anyone who will be attending JuliaCon 2021. Will there be any social event&#40;s&#41; where I can network and make friends?</strong></p>
-<p>A: Yes&#33; Please stay tuned for some fun social events we are planning, such as a buddy program and speaker social. We want to make JuliaCon a rewarding and fun experience for you&#33;</p>
+<h1 id="scientific_data_minisymposium"><a href="#scientific_data_minisymposium" class="header-anchor">Scientific Data Minisymposium</a></h1>
+<p>A robust scientific data ecosystem is critical to Julia&#39;s applications in scientific computing. The ability to handle scientific data interchange allows Julia to interoperate with existing scientific projects which may be using code in other languages such as MATLAB, Python, C, C&#43;&#43;, or Rust. Prior minisymposia on data have emphasized the use of Julia with tabular data in CSV files or web friendly data formats such as JSON. Julia&#39;s strong support for tabular data and JSON provide a strong foundation to build upon. Scientific data also extends into n-dimensional arrays with dimensions describing space, time, and other parameters such as wavelength that may not be well served these data formats. These datasets are organized into nested hiearchial groups and are annotated with standardized regular vocabulary.</p>
+<p>Potential topics for the scientific data minisymposium are as follows.</p>
+<ol>
+<li><p>Advanced input and output APIs for scientific data. This includes HPC interfaces such as Message Passing Interface &#40;MPI&#41;, cloud data APIs, and interfaces with databases.</p>
+</li>
+<li><p>Data formats for scientific data interchange. Discussion of data formats such as HDF5, NetCDF, FITS, Zarr, ADIOS2, and ASDF or their incoporation into data schemes such as scverse would be welcome.</p>
+</li>
+<li><p>Data exchange between threads and &#40;distributed&#41; processes. This especially includes techniques that transfers data while retaining annotations and context.</p>
+</li>
+<li><p>The implementation of abstract interfaces over similar data interfaces. For example, implementing a general n-dimensional chunk based interface supporting multiple data formats.</p>
+</li>
+</ol>
 </div> <!-- close the container -->
 
 <div class="u-vskip-3"></div>
